@@ -1,4 +1,4 @@
-# Handling-Large-Data-with-Pagination-in-.NET-MAUI-ListView
+# Handling large data with Pagination in .NET MAUI ListView (SfListView)
 
 Handling Large Data with Pagination in .NET MAUI ListView.
 
